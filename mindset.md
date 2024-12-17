@@ -68,5 +68,18 @@ Imagina que intentas aprender a programar y te cuesta mucho entenderlo.
 
 ---
 
+## **Cómo cambiar mi Mindset:**  
+Cambiar tu mentalidad requiere práctica y compromiso, pero es posible siguiendo estos pasos:  
+
+1. **Reconoce tu mentalidad actual:** Identifica si tienes pensamientos de mentalidad fija y cuestionalos.  
+2. **Acepta los desafíos:** Sal de tu zona de confort y atrévete a enfrentar nuevas situaciones.  
+3. **Enfócate en el proceso, no en el resultado:** Celebra tu esfuerzo y tus avances, no solo los logros finales.  
+4. **Cambia tu diálogo interno:** Sustituye frases como *"No puedo hacerlo"* por *"No puedo hacerlo todavía"*.  
+5. **Aprende de los errores:** En lugar de ver los fracasos como el final, míralos como una oportunidad para mejorar.  
+6. **Rodéate de personas con mentalidad de crecimiento:** Busca entornos que fomenten el aprendizaje y el desarrollo.  
+7. **Celebra los pequeños avances:** Cada mejora, por mínima que sea, es un paso hacia adelante.  
+
+---
+
 ## **Mi opinión:**  
 El **Growth Mindset** te permite ver las dificultades como oportunidades de crecimiento y te ayuda a alcanzar tu potencial a través del esfuerzo y la perseverancia. 🚀
