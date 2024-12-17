@@ -12,4 +12,4 @@ para poder así abrir mi propio Startup desarrollando sofware imnovadores.
 - [Github](https://github.com/AlexanderG8)
 
 ## Mis Notas de Lectura
-- [Mindset](https://github.com/AlexanderG8/reading-notes/blob/main/mindset.md)
+- [Mindset](https://alexanderg8.github.io/reading-notes/mindset)
