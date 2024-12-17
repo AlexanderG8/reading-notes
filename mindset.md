@@ -84,4 +84,4 @@ Cambiar tu mentalidad requiere práctica y compromiso, pero es posible siguiendo
 ## **Mi opinión:**  
 El **Growth Mindset** te permite ver las dificultades como oportunidades de crecimiento y te ayuda a alcanzar tu potencial a través del esfuerzo y la perseverancia. 🚀
 
-<-- [Regresar](https://alexanderg8.github.io/reading-notes/mindset)
+<-- [Regresar](https://alexanderg8.github.io/reading-notes/)
