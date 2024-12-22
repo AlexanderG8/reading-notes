@@ -1,6 +1,7 @@
 # Alexander Gomez
 <img src="https://media.licdn.com/dms/image/v2/D4E03AQH7SfOX1nuzPg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677690138710?e=1740009600&v=beta&t=GR8dZcXV2KLNyOR-wN77nec6iDtLfdMYUVvVO_1KKdY" width="200px" alt="Logo"/>
 
+## Un poco sobre mi:
 Hola, soy un un futuro desarrollador de software con 27 años de edad,
 vivo en el país de Perú, en la capital de lima y distrito de Comas.
 Actualmente me interesa demasiado el mundo del desarrollo de software,
@@ -13,3 +14,5 @@ para poder así abrir mi propio Startup desarrollando sofware imnovadores.
 
 ## Mis Notas de Lectura
 - [Mindset](https://alexanderg8.github.io/reading-notes/mindset)
+- [Notas de Lectura CODE 101](101/)
+- [Notas de Lectura CODE 201](201/)
