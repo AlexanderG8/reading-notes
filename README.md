@@ -14,5 +14,5 @@ para poder así abrir mi propio Startup desarrollando sofware imnovadores.
 
 ## Mis Notas de Lectura
 - [Mindset](https://alexanderg8.github.io/reading-notes/mindset)
-- [Notas de Lectura CODE 101](101/)
-- [Notas de Lectura CODE 201](201/)
+- [Notas de Lectura CODE 101](https://alexanderg8.github.io/reading-notes/101/)
+- [Notas de Lectura CODE 201](https://alexanderg8.github.io/reading-notes/201/)
