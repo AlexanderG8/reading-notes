@@ -13,7 +13,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 - [Clase 5: Markdown & Web Publishing](read05.md)
 - [Clase 6: Developers Tools](read06.md)
 - [Clase 7: Control de Versiones](read07.md)
-- [Clase 8](read08.md)
+- [Clase 8: Wireframe](read08.md)
 - [Clase 9](read09.md)
 - [Clase 10](read10.md)
 - [Clase 11](read11.md)
