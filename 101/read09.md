@@ -38,7 +38,7 @@ JavaScript incluye diversos operadores para manipular datos:
 - 🔗 Lógicos: Operan con booleanos (&&, ||, !).
 
 📌 Ejemplo de operador aritmético:
-```
+```javascript
 let suma = 5 + 3; // Resultado: 8
 ```
 
@@ -50,7 +50,7 @@ En JavaScript, puedes declarar variables usando:
 - 🔒 const: Alcance de bloque, no permite reasignación ni redeclaración.
 
 📌 Ejemplo:
-```
+```javascript
 let edad = 25; // Mutable y con alcance de bloque
 const nombre = "Juan"; // Inmutable
 ```
