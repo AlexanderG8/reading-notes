@@ -16,4 +16,4 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 - [Clase 8: Wireframe](read08.md)
 - [Clase 9: Javascript](read09.md)
 - [Clase 10: Arreglos y Control de Flujo](read10.md)
-- [Clase 11](read11.md)
+- [Clase 11: Introducción al DOM y Proyectos](read11.md)
