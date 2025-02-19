@@ -6,7 +6,7 @@ En este espacio **compartiré las notas y aprendizajes** que he recopilado duran
 Espero que encuentres útil esta información y que te ayude a reforzar tus conocimientos.
 
 ## Clases:
-- [Clase 1](read01.md)
+- [Clase 1: Fundamentos de la Web Moderna](read01.md)
 - [Clase 2](read02.md)
 - [Clase 3](read03.md)
 - [Clase 4](read04.md)
