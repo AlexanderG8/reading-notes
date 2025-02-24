@@ -8,7 +8,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 ## Clases:
 - [Clase 1: HTML5 Semántico y Accesibilidad](read01.md)
 - [Clase 2: CSS Layout con Flexbox](read02.md)
-- [Clase 3](read03.md)
+- [Clase 3: CSS Grid Layout](read03.md)
 - [Clase 4](read04.md)
 - [Clase 5](read05.md)
 - [Clase 6](read06.md)
