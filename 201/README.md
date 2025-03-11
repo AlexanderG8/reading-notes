@@ -12,7 +12,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 - [Clase 4: Frameworks CSS Modernos](read04.md)
 - [Clase 5](read05.md)
 - [Clase 6](read06.md)
-- [Clase 7](read07.md)
+- [Clase 7: Programación Orientada a Objetos con Funciones Constructoras](read07.md)
 - [Clase 8](read08.md)
 - [Clase 9](read09.md)
 - [Clase 10](read10.md)
