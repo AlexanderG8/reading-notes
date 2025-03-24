@@ -13,7 +13,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 - [Clase 6: Programación Funcional en JavaScript](read06.md)
 - [Clase 7: Programación Orientada a Objetos con Funciones Constructoras](read07.md)
 - [Clase 8: Prototipos en JavaScript](read08.md)
-- [Clase 9](read09.md)
+- [Clase 9: DOM como API de Objetos](read09.md)
 - [Clase 10](read10.md)
 - [Clase 11](read11.md)
 - [Clase 12](read12.md)
