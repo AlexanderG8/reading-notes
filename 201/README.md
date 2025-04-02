@@ -14,7 +14,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 - [Clase 7: Programación Orientada a Objetos con Funciones Constructoras](read07.md)
 - [Clase 8: Prototipos en JavaScript](read08.md)
 - [Clase 9: DOM como API de Objetos](read09.md)
-- [Clase 10](read10.md)
+- [Clase 10: Funciones y Callbacks en JavaScript](read10.md)
 - [Clase 11](read11.md)
 - [Clase 12](read12.md)
 - [Clase 13](read13.md)
