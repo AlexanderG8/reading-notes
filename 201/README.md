@@ -17,7 +17,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 - [Clase 10: Funciones y Callbacks en JavaScript](read10.md)
 - [Clase 11](read11.md)
 - [Clase 12](read12.md)
-- [Clase 13](read13.md)
+- [Clase 13: Modelado de Objetos y Estado](read13.md)
 - [Clase 14](read14.md)
 - [Clase 15](read15.md)
 - [Clase 16](read16.md)
