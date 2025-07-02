@@ -12,24 +12,9 @@ En React, todo se construye a partir de componentes. Un componente es una pieza 
 
 Hay dos tipos principales de componentes:
 
-- Componentes de Clase: Son clases de JavaScript que extienden React.Component y tienen un método render() que devuelve lo que se mostrará. Eran la forma principal de crear componentes con estado en versiones anteriores de React.
+- Componentes de Clase: Son clases de JavaScript que extienden `React.Component` y tienen un método `render()` que devuelve lo que se mostrará. Eran la forma principal de crear componentes con estado en versiones anteriores de React.
 
 - Componentes Funcionales (con Hooks): Son funciones de JavaScript que devuelven directamente lo que se mostrará. Con la introducción de los Hooks, los componentes funcionales se han convertido en la forma preferida de crear componentes en React, ya que permiten manejar el estado y los efectos secundarios de una manera más sencilla y concisa.
-
-¿Qué es React?
-React es una biblioteca de JavaScript de código abierto y gratuita para construir interfaces de usuario (UI) interactivas. Fue creada por Facebook y es ampliamente utilizada hoy en día por su eficiencia y flexibilidad. Piensa en React como una forma de crear los "ladrillos" individuales de tu sitio web o aplicación, y luego ensamblarlos para formar la interfaz completa.
-
-Conceptos Clave de React
-Aquí te presento los conceptos más importantes para entender cómo funciona React:
-
-1. Componentes: Los "Ladrillos" de la UI
-En React, todo se construye a partir de componentes. Un componente es una pieza de código reutilizable e independiente que encapsula su propia lógica y su propia forma de renderizarse en la pantalla. Imagina que estás construyendo una casa: los componentes serían como las paredes, las ventanas, las puertas, etc.
-
-Hay dos tipos principales de componentes:
-
-Componentes de Clase: Son clases de JavaScript que extienden `React.Component` y tienen un método `render()` que devuelve lo que se mostrará. Eran la forma principal de crear componentes con estado en versiones anteriores de React.
-
-Componentes Funcionales (con Hooks): Son funciones de JavaScript que devuelven directamente lo que se mostrará. Con la introducción de los Hooks, los componentes funcionales se han convertido en la forma preferida de crear componentes en React, ya que permiten manejar el estado y los efectos secundarios de una manera más sencilla y concisa.
 
 2. JSX: JavaScript con un Toque de HTML
 
