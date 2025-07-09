@@ -8,3 +8,5 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 ## Clases:
 - [Clase 1: React - Arquitectura basada en componentes](read01.md)
 - [Clase 2: React - State y Props](read02.md)
+- [Clase 3: React - Funciones como Props](read03.md)
+- [Clase 4: React - Formularios y Eventos](read04.md)
