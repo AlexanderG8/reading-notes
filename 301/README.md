@@ -1,6 +1,6 @@
 # Mis Notas de Lectura CODE 301
 
-**¡Hola!**  
+**¡Hola!**
 En este espacio **compartiré las notas y aprendizajes** que he recopilado durante las clases del módulo **CODE 301**.
 
 > **¡Importante!**
@@ -24,7 +24,7 @@ Espero que encuentres útil esta información y que te ayude a reforzar tus cono
 
 ### Modulo 3: Backend Moderno
 
-- [Ecosistema Node](read09.md)
-- [Servidor Express y API REST](read10.md)
-- [Patrón MVC con Datos en Memoria](read11.md)
-- [Middleware, Documentación y Despliegue](read12.md)
+- [Clase 9: Ecosistema Node](read09.md)
+- [Clase 10: Servidor Express y API REST](read10.md)
+- [Clase 11: Patrón MVC con Datos en Memoria](read11.md)
+- [Clase 12: Middleware, Documentación y Despliegue](read12.md)
